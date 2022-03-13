@@ -5,11 +5,7 @@ void main() {
   runApp(MyApp());
 }
 
-// abbasalhdb
-//ghhghghghfgfttt
-//abbsfff lloccc
 
-// ahmaed aamk
 
 class MyApp extends StatefulWidget {
   @override

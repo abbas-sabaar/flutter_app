@@ -1,13 +1,6 @@
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatefulWidget {
-  //
-  //abbbooopnnn
-  //hkksjiijjsk
-  //hooommddkkk
-
-  //
-
   @override
   _HomeScreenState createState() => _HomeScreenState();
 }
@@ -21,6 +14,11 @@ class _HomeScreenState extends State<HomeScreen> {
       backgroundColor: Colors.white,
       appBar: AppBar(
         title: Text('appbar'),
+        actions: [
+          Icon(
+            Icons.ac_unit,
+          ),
+        ],
       ),
       body: Center(
         child: Row(

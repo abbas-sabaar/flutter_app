@@ -5,8 +5,6 @@ void main() {
   runApp(MyApp());
 }
 
-// Abn ansa annijsjauhhsjunjnhnjhhkkkjjkddjkkjjijdhsdjhjjjdjkjkjdkjsidsniejksjksdslskdkl;klklksklskldksljklfjsjfkjfjksjksjsjkjsjjkhfjajfh
-
 class MyApp extends StatefulWidget {
   @override
   _MyAppState createState() => _MyAppState();

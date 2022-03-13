@@ -1,13 +1,16 @@
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatefulWidget {
-  const HomeScreen({Key? key}) : super(key: key);
+  //
+  //abbbooopnnn
+  //hkksjiijjsk
+  //hooommddkkk
+
+  //
 
   @override
   _HomeScreenState createState() => _HomeScreenState();
 }
-
-//abbhgbhhh nahshsuhsygysgyghysg ():op
 
 class _HomeScreenState extends State<HomeScreen> {
   int counter = 0;
